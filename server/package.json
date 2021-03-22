@@ -1,0 +1,22 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "NFT Pool server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamsuz/NFT-pool.git"
+  },
+  "keywords": [
+    "NFT"
+  ],
+  "author": "Codentech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamsuz/NFT-pool/issues"
+  },
+  "homepage": "https://github.com/iamsuz/NFT-pool#readme"
+}
